@@ -1,6 +1,5 @@
 body .container {
   display: block;
-  margin: 20px 70px 10px;
   border: 2px solid rgb(212, 214, 219);
   box-shadow: 1px 1px 2px 2px rgb(238, 239, 241);
   margin: 150px auto;
@@ -85,4 +84,15 @@ span {
 .wed {
   font-size: 12px;
   font-weight: 650;
+}
+
+.author {
+  position: relative;
+  top: 83px;
+  left: -60px;
+  font-weight: 600;
+}
+
+.author-link {
+  text-decoration: none;
 }
