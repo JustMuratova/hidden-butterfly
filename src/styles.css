@@ -44,6 +44,10 @@ span {
   font-family: sans-serif;
 }
 
+.sonditions-style {
+  margin-top: 20px;
+}
+
 .row .col-2 {
   color: rgb(90, 98, 117);
   font-size: 23px;
