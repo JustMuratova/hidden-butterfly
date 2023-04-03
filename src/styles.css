@@ -14,6 +14,10 @@ body .container {
   );
 }
 
+span {
+  background-color: rgb(238, 239, 241);
+}
+
 .city h1 {
   font-size: 40px;
   padding: 20px 0px 0px 0px;
@@ -22,6 +26,7 @@ body .container {
   font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
+
 .temperature h2 {
   font-size: 50px;
   padding: 40px 0px 0px 0px;
@@ -38,6 +43,7 @@ body .container {
   font-weight: 500;
   font-family: sans-serif;
 }
+
 .row .col-2 {
   color: rgb(90, 98, 117);
   font-size: 23px;
@@ -51,6 +57,7 @@ body .container {
   font-size: 12px;
   font-weight: 650;
 }
+
 .sat {
   font-size: 12px;
   font-weight: 650;
@@ -60,18 +67,18 @@ body .container {
   font-size: 12px;
   font-weight: 650;
 }
+
 .mon {
   font-size: 12px;
   font-weight: 650;
 }
+
 .tue {
   font-size: 12px;
   font-weight: 650;
 }
+
 .wed {
   font-size: 12px;
   font-weight: 650;
-}
-span {
-  background-color: rgb(238, 239, 241);
 }
